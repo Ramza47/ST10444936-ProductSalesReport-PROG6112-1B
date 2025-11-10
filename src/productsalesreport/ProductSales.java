@@ -2,7 +2,7 @@
 package productsalesreport;
 
 
-class ProductSales implements IProductSales {
+abstract class ProductSales implements IProductSales {
 
     public ProductSales() {
     }
